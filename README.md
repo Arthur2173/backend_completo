@@ -12,4 +12,4 @@ python3 -m venv .venv
 
 #baixar requirements.txt:
 
-pip install -r requirements
+pip install -r requirements.txt
