@@ -1,0 +1,27 @@
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Variáveis de Ambiente (SEGURANÇA!)
+.env
+.flaskenv
+
+# Banco de Dados Local (SQLite)
+*.sqlite3
+*.db
+
+# Editores de Código
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
