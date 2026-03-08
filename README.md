@@ -1,6 +1,6 @@
 #objetivo
 
-criar um sistema completo backend (banco de dados,autenticação,API RESTFUL) com fastapi para fins de conhecimento
+criar um sistema completo backend (banco de dados,autenticação,API REST) com fastapi para fins de conhecimento
 
 #Rodar no terminal, inicia o servidor:
 
