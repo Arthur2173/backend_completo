@@ -14,7 +14,6 @@ from models import Base
 
 target_metadata = Base.metadata
 
-
+#rodar migração
 alembic revision --autogenerate -m "inition migration"
-
- alembic upgrade  head
+alembic upgrade  head
