@@ -11,3 +11,25 @@ class UsuariosSchema(BaseModel):
 
     class Config:
         from__attributes = True
+
+class PedidoSchema(BaseModel):
+
+    usuario : int
+
+
+
+    class Config:
+        from_attributes = True
+
+class LoginSchema(BaseModel):
+
+    email: str
+    senha: str
+
+    class Config:
+        from_attributes = True
+
+
+    
+
+

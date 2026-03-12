@@ -7,4 +7,5 @@ python-dotenv
 python-multipart 
 alembic
 sqlalchemy_utils
+bcrypt==4.0.1
  
